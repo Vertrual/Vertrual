@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vertrual
+- 👀 I’m interested in Roblox and Lua
+- 🌱 I’m currently learning Lua/Luau or whatever
+- 📫 How to reach me Discord: Ver#7777
