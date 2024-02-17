@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Vertrual
-- 👀 I’m interested in Roblox related stuff.
-- 🌱 I’m currently learning Lua, Python, JavaScript
-- 📫 How to reach me: find out how.
